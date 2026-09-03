@@ -1,0 +1,10 @@
+java-learning/
+├── README.md              ← 学习总览（自我介绍 + 学习进度）
+├── daily-log/             ← 每日学习日志
+│  
+├── code-practice/         ← 代码练习
+│   
+├── leetcode/              ← LeetCode 刷题记录
+│  
+└── notes/                 ← 知识笔记
+  
